@@ -12,8 +12,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Mahesh0253/Media-Search-bot",
-    "repository": "https://github.com/Mahesh0253/Media-Search-bot",
+    "website": "https://github.com/cinema-jpg/grootmax",
+    "repository": "https://github.com/cinema-jpg/grootmax",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
